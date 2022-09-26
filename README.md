@@ -30,7 +30,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Sumário</summary>
+  <summary><strong>Sumário »</strong></summary>
   <ol>
     <li>
       <a href="#sobre-o-projeto">Sobre o projeto</a>
@@ -58,9 +58,23 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
+<details>
+<summary><strong>Imagens »</strong></summary>
 
-![]()
 
+![Login](https://media.discordapp.net/attachments/704805407906070581/1023791916313231400/20220926_000221.jpg?width=278&height=480)
+
+![](https://media.discordapp.net/attachments/704805407906070581/1023791916560678952/20220926_000210.jpg?width=278&height=479)
+
+![](https://media.discordapp.net/attachments/704805407906070581/1023791916808163428/20220926_000156.jpg?width=278&height=479)
+![](https://media.discordapp.net/attachments/704805407906070581/1023791917118533692/20220926_000140.jpg?width=278&height=479)
+![](https://media.discordapp.net/attachments/704805407906070581/1023791917336633384/20220926_000103.jpg?width=279&height=479)
+![](https://media.discordapp.net/attachments/704805407906070581/1023791917638619237/20220926_000042.jpg?width=279&height=480)
+
+![](https://media.discordapp.net/attachments/704805407906070581/1023791917923840051/20220926_000014.jpg?width=278&height=480)
+![](https://media.discordapp.net/attachments/704805407906070581/1023791918179680277/20220926_000027.jpg?width=280&height=480)
+
+</details>
 <br/>
 
 Projeto feito em React Native, utilizando algumas bibliotecas.
